@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "name": "Emily",
+      "phone": "0551554926",
+      "email": "hfhfhfjfj@f.com",
+      "image": "https://image.freepik.com/free-vector/rabbit-bunny-icon-image_24911-6964.jpg",
+      "id": 1
+    },
+    {
+      "name": "Alex",
+      "phone": "055599044",
+      "email": "djhgagaj@f.com",
+      "image": "https://cdn4.vectorstock.com/i/1000x1000/37/68/cute-bear-teddy-icon-vector-19473768.jpg",
+      "id": 2
+    },
+    {
+      "name": "Marta",
+      "phone": "066677744",
+      "email": "aaaaaaa@f.com",
+      "image": "https://cdn-icons-png.flaticon.com/512/3800/3800591.png",
+      "id": 3
+    }
+  ]
+}
